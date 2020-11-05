@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Seongmin kim's github status](https://github-readme-stats.vercel.app/api?username=shieldnet)](https://github.com/anuraghazra/github-readme-stats)
+[![Seongmin kim's github status](https://github-readme-stats.vercel.app/api?username=shieldnet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shieldnet/shieldnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
