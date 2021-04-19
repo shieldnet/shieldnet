@@ -2,7 +2,7 @@
 
 [![Seongmin kim's github status](https://github-readme-stats.vercel.app/api?username=shieldnet&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shieldnet&langs_count=10&layout=compact&exclude_repo=piscon2019,piscon2019-2,go-traq&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shieldnet&theme=onedark&title=Joined2014,Commit,Followers,Repositories,Issue,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shieldnet&theme=onedark&title=Stars,Commit,Followers,Repositories,Issue,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
